@@ -1,0 +1,118 @@
+body{
+    margin:0%;
+}
+header{
+    display:flex;
+    text-align:center;
+    background:pink;
+    margin:auto;
+    justify-content:center;
+}
+a{
+    text-decoration:none;
+    color:black;
+}
+a:hover{
+    color:aqua;
+}
+.mainsection{
+    margin-top:100px;
+    margin-left:50px;
+    align-items:center;
+    font-size:1rem;
+}
+.mainsection h3{
+    font-size:30px;
+    color:grey;
+}
+.mainsection h1{
+    font-size:50px;
+}
+.mainsection img{
+    width:400px;
+    height:400px;
+    border-radius:50%;
+    margin-top:-300px;
+    margin-right:100px;
+    
+}
+.mainsection p{
+    margin:0.5%;
+}
+.mainsection button{
+    border-radius:25px;
+    width:100px;
+    height:30px;
+    margin-top:50px;
+    font-size:15px;
+    background:pink;
+    border:none;
+}
+.skill{
+    background:blueviolet;
+    margin-top:100px;
+}
+.right{
+    margin-top:-200px;
+}
+.right hr{
+    width:400px;
+    margin-right:40px;
+    color:aqua;
+}
+.right h1{
+    margin-right:50px;
+    margin-top:-20px;
+}
+.right p{
+    margin-right:50px;
+}
+.left{
+    margin-left:80px;
+}
+.skill{
+    padding-top:50px;
+    padding-bottom:50px;
+}
+.images img{
+    width:200px;
+    height:400px;
+    margin-left:150px;
+    justify-content:center;
+}
+.images {
+    margin-top:30px;
+    
+}
+
+.project h1{
+    margin-left:50px;
+    margin-top:30px;
+}
+.contact{
+    background:violet;
+    text-align:center;
+    margin-top:50px;
+    margin-bottom:-20px;
+    
+}
+.contact h1{
+    padding-top:40px;
+    font-size:25px;
+}
+.contact h2{
+    font-size:40px;
+    margin-top:80px;
+}
+.contact h3{
+    font-size:20px;
+    margin-top:80px;
+}
+.contact h5{
+    color:white;
+    padding-bottom:50px;
+}
+.link a{
+    margin:10px;
+
+}
